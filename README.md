@@ -1,2 +1,2 @@
 # Competitive-Programming
-Competitive Programming Algorithms &amp; Data Structures &amp; Problem Solutions
+Algorithms - Data Structures - Problem Solutions
